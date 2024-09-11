@@ -1,0 +1,11 @@
+{
+  "name": "schedule-api-test",
+  "version": "0.0.1",
+  "description": "schedule-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "Mark Bilousß",
+  "license": "ISC"
+}
