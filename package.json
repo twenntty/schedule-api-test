@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "Mark Bilousß",
+  "author": "Mark Bilous",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.1.4"
